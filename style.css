@@ -57,7 +57,7 @@ body {
 		color: white;
 	}
 }
-@media only screen and (max-width:600px) { 
+@media only screen and (max-width:768px) { 
 	.main{
 	flex-direction : column;
 	height: auto;
@@ -79,4 +79,8 @@ body {
 }
 
 	
+}
+.btn{
+	background-color: bisque;
+	color: aliceblue;
 }
